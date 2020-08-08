@@ -1,5 +1,5 @@
 # Draw-By-Gesture
-Application to draw in different colours on a digital whiteboard using fingertip tracing through various functions from cv2 and numpy libraries in python.
+Application to draw in different colours on a digital canvas using fingertip tracing through various functions from cv2 and numpy libraries in python.
 
 
 # To make it work:
@@ -8,7 +8,7 @@ Application to draw in different colours on a digital whiteboard using fingertip
 Execute main.py
 
 
-Just let the program scan the background for a couple of seconds ter the video feed starts and then move into the frame.
+Just let the program scan the background for a couple of seconds until the canvas appears and then move into the frame.
 
 
 
